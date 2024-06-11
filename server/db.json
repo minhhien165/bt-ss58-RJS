@@ -1,0 +1,86 @@
+{
+  "students": [
+    {
+      "id": 4,
+      "name": "Phạm Thị D",
+      "email": "phamthid@example.com",
+      "address": "321 Đường D, Quận E, TP. F",
+      "phone": "0345678901",
+      "status": "inactive",
+      "create_at": "2023-04-05T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Võ Văn E",
+      "email": "vovane@example.com",
+      "address": "654 Đường E, Quận F, TP. G",
+      "phone": "0456789012",
+      "status": "active",
+      "create_at": "2023-05-20T12:00:00Z"
+    },
+    
+    {
+      "name": "Nguyễn Minh Hiển",
+      "email": "minhhienhd2005@gmail.com",
+      "address": "Hải Dương",
+      "phone": "0782225093",
+      "status": "active",
+      "create_at": "2023-06-11T8:00:00Z",
+      "id": 8
+    },
+    {
+      "name": "Nguyễn Minh Hiển",
+      "email": "minhhienhd2005@gmail.com",
+      "address": "Hải Dương",
+      "phone": "0782225093",
+      "status": "active",
+      "create_at": "2023-06-11T8:00:00Z",
+      "id": 9
+    },
+    {
+      "name": "Nguyễn Minh Hiển",
+      "email": "minhhienhd2005@gmail.com",
+      "address": "Hải Dương",
+      "phone": "0782225093",
+      "status": "active",
+      "create_at": "2023-06-11T8:00:00Z",
+      "id": 10
+    },
+    {
+      "name": "Nguyễn Minh Hiển",
+      "email": "minhhienhd2005@gmail.com",
+      "address": "Hải Dương",
+      "phone": "0782225093",
+      "status": "active",
+      "create_at": "2023-06-11T8:00:00Z",
+      "id": 24
+    },
+    {
+      "name": "Nguyễn Minh Hiển",
+      "email": "minhhienhd2005@gmail.com",
+      "address": "Hải Dương",
+      "phone": "0782225093",
+      "status": "active",
+      "create_at": "2023-06-11T8:00:00Z",
+      "id": 24
+    }
+  ],
+  "Items": [
+    {
+      "id": 2,
+      "name": "mh",
+      "price": 25,
+      "image": "123",
+      "quantity": 205,
+      "create_at": "2024-01-02T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Xoài",
+      "price": 1200,
+      "image": "https://png.pngtree.com/png-clipart/20221015/original/pngtree-mango-fruits-and-vegetables-png-image_8692970.png",
+      "quantity": 30,
+      "create_at": "2024-01-03T10:00:00Z"
+    }
+  ]
+}
